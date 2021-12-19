@@ -1,0 +1,16 @@
+{
+  "cards" : [
+    {
+    "cardholder":"Iqbal Karim",
+    "cardNumber":"0122 5455 5877 6502",
+    "cvc": "444",
+    "expiryDate": "10/25"
+    },
+    {
+      "cardholder":"Ahmed Salik",
+      "cardNumber":"0122 8987 0235 6489",
+      "cvc": "789",
+      "expiryDate": "9/11"
+    }
+  ]
+}

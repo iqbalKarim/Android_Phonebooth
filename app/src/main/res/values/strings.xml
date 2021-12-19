@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">IqbalKarim_HW2</string>
+    <string name="appTitle">Phone Booth</string>
+    <string name="proceedToCheckout">Proceed to checkout</string>
+    <string name="storage">Storage:</string>
+    <string name="memory">Memory: </string>
+    <string name="imageDesc">Phone Image</string>
+    <string name="deliveryInformation">Delivery Information</string>
+    <string name="address">Address: </string>
+    <string name="recipientName">Recipient Name:</string>
+    <string name="phoneNum">Phone Number:</string>
+    <string name="email">Email:</string>
+    <string name="paymentInformation">Payment Information:</string>
+    <string name="creditCard">Select Card:</string>
+    <string name="reviewOrder">Review and place order</string>
+    <string name="orderSummary">Order Summary:</string>
+    <string name="cardholderName">Cardholder Name:</string>
+    <string name="cardNo">Card Number:</string>
+    <string name="cardExp">Card Expiry Date:</string>
+    <string name="cvc">Card CVC:</string>
+    <string name="kvkk">Terms and Conditions:</string>
+    <string name="kvkkCheckbox">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Malesuada fames ac turpis egestas integer eget. Tincidunt eget nullam non nisi est. Consequat mauris nunc congue nisi. Vestibulum mattis ullamcorper velit sed. Et leo duis ut diam quam.</string>
+    <string name="placeOrder">Place Order</string>
+    <string name="warning">Warning!</string>
+    <string name="dialogWarningText">Please confirm that this is the right card that you have selected. If not, press back to go back to payment information.</string>
+    <string name="confirm">Confirm</string>
+    <string name="back">Back</string>
+    <string name="addItem">Add Phone</string>
+    <string name="phoneName">Phone Name:</string>
+    <string name="phoneStorage">Phone Storage:</string>
+    <string name="phoneMemory">Phone Memory:</string>
+    <string name="phoneDesc">Phone Description:</string>
+    <string name="phonePrice">Phone Price:</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Neque viverra justo nec ultrices dui sapien eget mi. Amet porttitor eget dolor morbi non. Rhoncus est pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat. Iaculis nunc sed augue lacus viverra vitae congue eu consequat. Enim praesent elementum facilisis leo vel fringilla est ullamcorper. Rhoncus est pellentesque elit ullamcorper.</string>
+    <string name="deletePhone">Delete Phone</string>
+</resources>
